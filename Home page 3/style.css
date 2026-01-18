@@ -62,4 +62,5 @@ p{
 .content h1:hover,.content .list p:hover{
     color: black;
     transition: 0.3s ease all;
+
 }
